@@ -19,7 +19,7 @@ To install and run my Django project, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/guyversa74/Assignment.git
+    https://github.com/Almarie1/Assignment.git
     ```
 
 2. **Navigate to the directory of the project**:
@@ -31,7 +31,7 @@ To install and run my Django project, follow these steps:
 3. **Set up a Python virtual environment**:
 
     ```bash
-    python3 -m venv .venv
+    python -m venv .venv
     ```
 
 4. **Activate the virtual environment**:
