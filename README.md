@@ -80,7 +80,7 @@ To contribute to My Django Project, follow these steps:
 
 ## Contact
 
-If you want to contact me you can reach me at `paul.grobler@unicollege.co.za`.
+If you want to contact me you can reach me at `almariemouton13@gmail.com`.
 
 ## License
 
